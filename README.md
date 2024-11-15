@@ -1,1 +1,1 @@
-It is a video straming platform work functionality like as youtube
+It is a video streaming platform work functionality like as youtube
