@@ -22,7 +22,7 @@ export const VideosContainer = styled.ul`
   padding-left: 0px;
   width: 100%;
 `
-export const NoSavedVideosContainer = styled.div`
+export const NoSavedVideosContainer = styled.p`
   display: flex;
   flex-direction: column;
   align-items: center;

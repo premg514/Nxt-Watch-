@@ -20,9 +20,11 @@ class App extends Component {
     }))
   }
 
+  /*
   toggleTabId = id => {
     this.setState({activeTabId: id})
   }
+  */
 
   saveVideoButtonClicked = data => {
     const {savedVideosList} = this.state
